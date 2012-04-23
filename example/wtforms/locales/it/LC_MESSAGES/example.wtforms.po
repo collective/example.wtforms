@@ -1,0 +1,59 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2012-04-22 09:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: example.wtforms\n"
+
+#: ../forms.py:19
+msgid "Cancel"
+msgstr "Anulla"
+
+#: ../forms.py:36
+msgid "Choice 1"
+msgstr "Scelta 1"
+
+#: ../forms.py:36
+msgid "Choice 2"
+msgstr ""
+
+#: ../forms.py:37
+msgid "Choice 3"
+msgstr ""
+
+#: ../forms.py:37
+msgid "Choice 4"
+msgstr ""
+
+#: ../forms.py:29
+msgid "Field One"
+msgstr "Campo Uno"
+
+#: ../forms.py:45
+msgid "Fieldset One"
+msgstr "Primo fieldset"
+
+#: ../forms.py:42
+msgid "Form 2"
+msgstr "Modulo 2"
+
+#: ../forms.py:30
+msgid "Help text of field 2"
+msgstr "Testo di aiuto del campo 2"
+
+#: ../forms.py:43
+msgid "this is form 2!"
+msgstr "questo è il modulo 2!"
+
