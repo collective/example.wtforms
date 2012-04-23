@@ -6,12 +6,14 @@ version = '0.1.0'
 setup(name='example.wtforms',
       version=version,
       description="Some test and examples of collective.wtforms",
-      long_description=open("README.txt").read() + "\n" +
+      long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       # Get more strings from
       # http://pypi.python.org/pypi?:action=list_classifiers
       classifiers=[
         "Framework :: Plone",
+        "Framework :: Plone :: 4.1",
+        "Framework :: Plone :: 4.2",
         "Programming Language :: Python",
         ],
       keywords='plone wtforms form example',
